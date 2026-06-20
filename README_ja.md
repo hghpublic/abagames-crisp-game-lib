@@ -14,7 +14,7 @@
 
 - [crisp-game-lib のリファレンス](https://abagames.github.io/crisp-game-lib/ref_document/modules.html)
 
-- [crisp-game-lib 用 AI スキル](.agents/skills/) - コーディングエージェントでの利用はこれを推奨。`.agents/skills/` に配置したスキルは、対応エージェントが自動検出・適用します。
+- [crisp-game-lib 用 AI スキル](https://github.com/abagames/agentic-gamedev-skills/tree/main/.agents/skills/developing-with-crisp-game-lib) - コーディングエージェントでの利用はこれを推奨。`.agents/skills/` に配置したスキルは、対応エージェントが自動検出・適用します。
 
 - [Crisp Game Lib ガイド](crisp-game-lib-guide.md) - スキル非対応の利用形態（チャットインタフェース、手動参照など）向けの汎用ガイドです。
 

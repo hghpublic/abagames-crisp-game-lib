@@ -14,7 +14,7 @@ English | [日本語](https://github.com/abagames/crisp-game-lib/blob/master/REA
 
 - [Reference of crisp-game-lib](https://abagames.github.io/crisp-game-lib/ref_document/modules.html)
 
-- [AI Skills for crisp-game-lib](.agents/skills/) - Recommended for coding agents. Compatible agents can automatically discover and apply skills placed under `.agents/skills/`.
+- [AI Skills for crisp-game-lib](https://github.com/abagames/agentic-gamedev-skills/tree/main/.agents/skills/developing-with-crisp-game-lib) - Recommended for coding agents. Compatible agents can automatically discover and apply skills placed under `.agents/skills/`.
 
 - [Crisp Game Lib Guide](crisp-game-lib-guide.md) - General-purpose guide for non-skill workflows (e.g., chat interfaces or manual reference).
 
