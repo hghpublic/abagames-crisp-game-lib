@@ -25,7 +25,6 @@ function update() {
       "hit",
       "click",
       "explosion",
-      "random",
     ].map((p, i) =>
       getButton({
         pos: vec(5, 2 + i * 9),
@@ -36,7 +35,7 @@ function update() {
           // @ts-ignore
           play(p);
         },
-      })
+      }),
     );
     setAudioSeed(seed);
     playBgm();

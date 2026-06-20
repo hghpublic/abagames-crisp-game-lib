@@ -67,8 +67,8 @@ cp -r docs/_template docs/my-game
       content="width=device-width, height=device-height, user-scalable=no, initial-scale=1, maximum-scale=1"
     />
     <!-- Load 'algo-chip' if options.isSoundEnabled is true -->
-    <script src="https://unpkg.com/algo-chip@1.0.2/packages/core/dist/algo-chip.umd.js"></script>
-    <script src="https://unpkg.com/algo-chip@1.0.2/packages/util/dist/algo-chip-util.umd.js"></script>
+    <script src="https://unpkg.com/algo-chip@1.1.0/packages/core/dist/algo-chip.umd.js"></script>
+    <script src="https://unpkg.com/algo-chip@1.1.0/packages/util/dist/algo-chip-util.umd.js"></script>
     <!-- Load 'gif-capture-canvas' if you plan to enable options.isCapturing -->
     <script src="https://unpkg.com/gif-capture-canvas@1.1.0/build/index.js"></script>
     <!-- Load 'pixi' when using shape/shapeDark/pixel/crt themes -->
@@ -122,8 +122,8 @@ npm install crisp-game-lib
       content="width=device-width, height=device-height, user-scalable=no, initial-scale=1, maximum-scale=1"
     />
     <!-- Load 'algo-chip' if options.isSoundEnabled is true -->
-    <script src="https://unpkg.com/algo-chip@1.0.2/packages/core/dist/algo-chip.umd.js"></script>
-    <script src="https://unpkg.com/algo-chip@1.0.2/packages/util/dist/algo-chip-util.umd.js"></script>
+    <script src="https://unpkg.com/algo-chip@1.1.0/packages/core/dist/algo-chip.umd.js"></script>
+    <script src="https://unpkg.com/algo-chip@1.1.0/packages/util/dist/algo-chip-util.umd.js"></script>
     <!-- Load 'gif-capture-canvas' if you plan to enable options.isCapturing -->
     <script src="https://unpkg.com/gif-capture-canvas@1.1.0/build/index.js"></script>
     <!-- Load 'pixi' when using shape/shapeDark/pixel/crt themes -->
